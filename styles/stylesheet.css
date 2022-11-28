@@ -77,11 +77,19 @@ figcaption
   color: rgb(160, 82, 45);
 }
      
-img{
+/**img{
   height: auto;
   width: 100%;
-}
+
+}**/
 
 .box-one{
   font-family:'Quicksand-Regular';
 }
+
+body
+{ 
+  color: rgb(26, 26, 49);
+  margin-top: 1em;
+  padding: 1em;
+} 
