@@ -1,0 +1,43 @@
+  
+* {box-sizing: border-box ;}
+
+@font-face {
+  font-family:'Quicksand-Regular';
+  src: url('../fonts/Quicksand-Regular.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family:'Champagne & Limousines';
+  src: url( '../fonts/Champagne & Limousines.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family:'GreatVibes-Regular';
+  src: url('../fonts/GreatVibes-Regular.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+h1 {
+    color: rgb(208, 125, 0);
+    font-family:'GreatVibes-Regular';
+    font-size: 55px;
+    text-align: center;
+    letter-spacing: -0.05rem;
+    padding: 0 0.5rem;
+    text-shadow: 0px 11px 10px rgba(81,67,21,0.8);
+    }
+
+    img {
+        height: auto;
+        width: 100%;
+        margin-top:20px;;
+      }
+  
+figcaption{
+  text-align: center;
+}
